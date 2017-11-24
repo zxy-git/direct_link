@@ -1,1 +1,3 @@
 Just for testing and practicing some git commands..........
+
+[![Analytics](https://ga-beacon.appspot.com/UA-110068936-1/direct_link/readme)](https://github.com/igrigorik/ga-beacon)
